@@ -1,0 +1,22 @@
+
+Œ
+java:S13199"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÿªèJ8Í¶‘­1
+
+java:S1319T"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¢û¡§8’Í¶‘­1
+Y
+java:S4973k"<Strings and Boxed types should be compared using "equals()".(€©Æˆ8—Í¶‘­1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½°Ì‡úÿÿÿÿ8™Í¶‘­1
+G	java:S106"+Replace this use of System.out by a logger.(ŸÜÀ“8÷Í¶‘­1
+L	java:S106"+Replace this use of System.out by a logger.(À‘äÒúÿÿÿÿ8øÍ¶‘­1
+]	java:S125"<This block of commented-out lines of code should be removed.(¤ù”¨ûÿÿÿÿ8ûÍ¶‘­1
+F	java:S106!"+Replace this use of System.out by a logger.(ü¢Ìl8ÿÍ¶‘­1
+L	java:S106&"+Replace this use of System.out by a logger.(‡úıÿÿÿÿ8Î¶‘­1
+L	java:S106("+Replace this use of System.out by a logger.(ÛŒ¾ÿÿÿÿÿ8‚Î¶‘­1
+L	java:S106,"+Replace this use of System.out by a logger.(‡úıÿÿÿÿ8„Î¶‘­1
+L	java:S106."+Replace this use of System.out by a logger.(ÛŒ¾ÿÿÿÿÿ8…Î¶‘­1
+G	java:S106A"+Replace this use of System.out by a logger.(¡Öìâ8Î¶‘­1
+L	java:S106I"+Replace this use of System.out by a logger.(Õ¥©Ôúÿÿÿÿ8‘Î¶‘­1
+L	java:S106P"+Replace this use of System.out by a logger.(¦¢ªáøÿÿÿÿ8’Î¶‘­1
+:
+java:S2119_"Save and re-use this "Random".(¼İÅf8™Î¶‘­1
+G	java:S106a"+Replace this use of System.out by a logger.(ò¼ô§8šÎ¶‘­1

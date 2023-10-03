@@ -1,0 +1,27 @@
+
+L
+java:S3740?"/Provide the parametrized type for this generic.(‘õÖû8Åç“­1
+Ž
+java:S1319-"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Š„¸å8‚Åç“­1
+“
+java:S1319F"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(óÿ¹üøÿÿÿÿ8‚Åç“­1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½°Ì‡úÿÿÿÿ8…Åç“­1
+G	java:S106"+Replace this use of System.out by a logger.(Ý¯Úé8“Åç“­1
+L	java:S106"+Replace this use of System.out by a logger.(‹ÕŸˆÿÿÿÿÿ8“Åç“­1
+L	java:S106"+Replace this use of System.out by a logger.(æ‰µàüÿÿÿÿ8”Åç“­1
+F	java:S106"+Replace this use of System.out by a logger.(“é«78”Åç“­1
+G	java:S106"+Replace this use of System.out by a logger.(ëøùÜ8”Åç“­1
+L	java:S106"+Replace this use of System.out by a logger.(ÕÂžŠüÿÿÿÿ8”Åç“­1
+G	java:S106"+Replace this use of System.out by a logger.(“êÓ’8•Åç“­1
+o	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¼ÒÕýÿÿÿÿ8–Åç“­1
+L	java:S1064"+Replace this use of System.out by a logger.(¿ïÍµüÿÿÿÿ8™Åç“­1
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥÷Éùÿÿÿÿ8™Åç“­1
+L	java:S106:"+Replace this use of System.out by a logger.(¬ÐË‹ùÿÿÿÿ8šÅç“­1
+o	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ùÉ–úÿÿÿÿ8šÅç“­1
+L	java:S106B"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ8šÅç“­1
+G	java:S106M"+Replace this use of System.out by a logger.(Ò¬§û8œÅç“­1
+P
+java:S1172Q".Remove this unused method parameter "pozitie".(Åÿ¾òýÿÿÿÿ8°Ûç“­1
+E
+java:S2114S"(Remove or correct this "removeAll" call.(Æ¤™ö8¥ïö“­1
+]	java:S125R"<This block of commented-out lines of code should be removed.(Ï“¤®úÿÿÿÿ8°Ûç“­1

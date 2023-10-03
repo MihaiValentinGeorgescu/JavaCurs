@@ -1,0 +1,14 @@
+
+i
+java:S1192"SDefine a constant instead of duplicating this literal "------------------" 3 times.(È©ƒ«
+@	java:S106"+Replace this use of System.out by a logger.(–Éó¡
+@	java:S106"+Replace this use of System.out by a logger.(Îªå›
+@	java:S106"+Replace this use of System.out by a logger.(È©ƒ«
+E	java:S106"+Replace this use of System.out by a logger.(ˆ•Ì¨úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(È©ƒ«
+@	java:S106"+Replace this use of System.out by a logger.(ÈÏëÈ
+?
+java:S1905")Remove this unnecessary cast to "Animal".(‰‰º‰
+@	java:S106"+Replace this use of System.out by a logger.(È©ƒ«
+@	java:S106"+Replace this use of System.out by a logger.(¾ŸŠö
+E	java:S106"+Replace this use of System.out by a logger.(‚­æúÿÿÿÿ

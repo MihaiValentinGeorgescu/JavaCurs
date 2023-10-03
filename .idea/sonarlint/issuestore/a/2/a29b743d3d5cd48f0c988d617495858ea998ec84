@@ -1,0 +1,4 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ÓžÇ
+±
+java:S1845"ŽRename method "collectPay" to prevent any misunderstanding/clash with method "collectpay" defined in superclass "InheritanceChallenge.Worker".(ÙèÀ”ÿÿÿÿÿ8Ì¦ˆÈ¬1

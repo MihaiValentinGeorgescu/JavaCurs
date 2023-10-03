@@ -1,0 +1,11 @@
+
+l
+java:S1104"OMake tip a static final constant or non-public and provide accessors if needed.(±µÙ8Šñ ç­1
+s
+java:S1104"QMake model a static final constant or non-public and provide accessors if needed.(¢úõşÿÿÿÿ8±Š¡ç­1
+o
+java:S1104"RMake chirie a static final constant or non-public and provide accessors if needed.(¢Çğ¸8¾¥¡ç­1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îº©–8í¦åæ­1
+L	java:S106"+Replace this use of System.out by a logger.(Ãèéâÿÿÿÿÿ8ô¦åæ­1
+G	java:S106"+Replace this use of System.out by a logger.(âˆ†§8õ¦åæ­1
+G	java:S106"+Replace this use of System.out by a logger.(¦‡ÈÑ8õ¦åæ­1

@@ -1,0 +1,30 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½°Ì‡úÿÿÿÿ8ÖÙõª1
+m
+java:S36555"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ñ§Éá8í„õª1
+L	java:S106"+Replace this use of System.out by a logger.(÷ÿÆĞøÿÿÿÿ8ÛÙõª1
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(­ÁÌÿûÿÿÿÿ8ÜÙõª1
+G	java:S106"+Replace this use of System.out by a logger.(Ñ¹ªü8ÜÙõª1
+G	java:S106"+Replace this use of System.out by a logger.(¸ÃöË8İÙõª1
+L	java:S106"+Replace this use of System.out by a logger.(‘ÒøÉøÿÿÿÿ8İÙõª1
+G	java:S106"+Replace this use of System.out by a logger.(¸ÃöË8İÙõª1
+L	java:S106"+Replace this use of System.out by a logger.(­ÎºÊüÿÿÿÿ8ŞÙõª1
+L	java:S106!"+Replace this use of System.out by a logger.(­ÎºÊüÿÿÿÿ8ŞÙõª1
+L	java:S106&"+Replace this use of System.out by a logger.(Éãıüøÿÿÿÿ8ŞÙõª1
+G	java:S106'"+Replace this use of System.out by a logger.(ó˜òÌ8ŞÙõª1
+B
+java:S2129)" Remove this "String" constructor(Á’Áÿÿÿÿÿ8àÙõª1
+G	java:S106*"+Replace this use of System.out by a logger.(ó˜òÌ8áÙõª1
+L	java:S106-"+Replace this use of System.out by a logger.(¢äŸ¶úÿÿÿÿ8áÙõª1
+L	java:S1060"+Replace this use of System.out by a logger.(”ÜæØşÿÿÿÿ8áÙõª1
+L	java:S1061"+Replace this use of System.out by a logger.(‘é•Üûÿÿÿÿ8áÙõª1
+G	java:S1065"+Replace this use of System.out by a logger.(ñ§Éá8áÙõª1
+]	java:S1253"<This block of commented-out lines of code should be removed.(ÜÑáîûÿÿÿÿ8áÙõª1
+G	java:S1068"+Replace this use of System.out by a logger.(İÂÈÔ8ß¶”õª1
+]	java:S1257"<This block of commented-out lines of code should be removed.(€ÒœÏüÿÿÿÿ8è“”õª1
+G	java:S1069"+Replace this use of System.out by a logger.(°’à8Ú‰–õª1
+o
+java:S62049"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(°’à8±‰•õª1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8è“”õª1

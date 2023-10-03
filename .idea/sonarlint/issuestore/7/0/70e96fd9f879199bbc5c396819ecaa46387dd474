@@ -1,0 +1,17 @@
+
+8
+java:S1643a"Use a StringBuilder instead.(ï÷V8Ÿ¤¸«1
+>
+java:S1643j"Use a StringBuilder instead.(ú¯ˆ¾øÿÿÿÿ8 ¤¸«1
+7
+java:S1220""Move this file to a named package.8¡¤¸«1
+L	java:S106"+Replace this use of System.out by a logger.(ÎìÔÏüÿÿÿÿ8í¤¸«1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‘Üìıÿÿÿÿ8î¤¸«1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›úŒ8ï¤¸«1
+j	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ïœñ8ğ¤¸«1
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ã±üÿÿÿÿ8ñ¤¸«1
+]	java:S125G"<This block of commented-out lines of code should be removed.(Óóª†ıÿÿÿÿ8ò¤¸«1
+X	java:S125K"<This block of commented-out lines of code should be removed.(ïçšÍ8ò¤¸«1
+X	java:S125N"<This block of commented-out lines of code should be removed.(ô§ÌË8ò¤¸«1
+]	java:S125P"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ò¤¸«1
+W	java:S125h"<This block of commented-out lines of code should be removed.(ŞœÒB8õ¤¸«1

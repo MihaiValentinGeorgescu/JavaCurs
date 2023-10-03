@@ -1,0 +1,26 @@
+
+~
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "remMinutesInOven".(•¹•˜
+~
+java:S1488#"cImmediately return this expression instead of assigning it to the temporary variable "timpCoacere".(›¯‘Ôûÿÿÿÿ
+|
+java:S1488+"fImmediately return this expression instead of assigning it to the temporary variable "totalCookeTime".(òÕ˜É
+E	java:S106"+Replace this use of System.out by a logger.(àûÄøûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(’¼Ì„úÿÿÿÿ
+W
+java:S2209"5Change this instance-reference to a static reference.(’¼Ì„úÿÿÿÿ8÷šÂ¬1
+?	java:S106
+"+Replace this use of System.out by a logger.(³îÎ1
+@	java:S106"+Replace this use of System.out by a logger.(ºÕ€É
+R
+java:S2209"5Change this instance-reference to a static reference.(ºÕ€É8êÚšÂ¬1
+E	java:S106"+Replace this use of System.out by a logger.(³ªè•øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(­·Œüÿÿÿÿ
+W
+java:S2209"5Change this instance-reference to a static reference.(­·Œüÿÿÿÿ8êÚšÂ¬1
+E	java:S106"+Replace this use of System.out by a logger.(ĞÄ¤ùûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÏÔÆÃùÿÿÿÿ
+W
+java:S2209"5Change this instance-reference to a static reference.(ÏÔÆÃùÿÿÿÿ8íøšÂ¬1
+[
+java:S3400"9Remove this method and declare a constant for this value.(®ÿİ¬şÿÿÿÿ8ûšÂ¬1

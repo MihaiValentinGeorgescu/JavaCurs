@@ -1,0 +1,11 @@
+
+w
+java:S1104"\Make rezervorMotorina a static final constant or non-public and provide accessors if needed.(žî†åýÿÿÿÿ
+q
+java:S1104"[Make rezervorBenzina a static final constant or non-public and provide accessors if needed.(þÜêß
+Q
+java:S1444"6Make this "public static rezervorMotorina" field final(žî†åýÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ò îó
+@	java:S106"+Replace this use of System.out by a logger.(ú•Ú÷
+E	java:S106"+Replace this use of System.out by a logger.(Âü¡õüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¦ºù§

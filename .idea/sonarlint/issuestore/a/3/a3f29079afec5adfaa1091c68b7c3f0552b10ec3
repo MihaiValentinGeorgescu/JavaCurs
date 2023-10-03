@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂİÌíùÿÿÿÿ8ÀÃÛÍ«1
+…
+java:S4165"cRemove this useless assignment; "width" already holds the assigned value along all execution paths.(Åô®¹ıÿÿÿÿ8ÄÃÛÍ«1
+†
+java:S4165"dRemove this useless assignment; "height" already holds the assigned value along all execution paths.(—Ä°ùÿÿÿÿ8ÄÃÛÍ«1
+A
+java:S1659"$Declare "height" on a separate line.(¢«µê8ÅÃÛÍ«1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(Åô®¹ıÿÿÿÿ8ÉÃÛÍ«1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(—Ä°ùÿÿÿÿ8ÉÃÛÍ«1

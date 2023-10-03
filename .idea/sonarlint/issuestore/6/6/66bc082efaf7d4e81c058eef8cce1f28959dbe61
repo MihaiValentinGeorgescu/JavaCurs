@@ -1,0 +1,9 @@
+
+r
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "suma".(áÌ¡Ò
+0
+java:S1220""Move this file to a named package.
+@	java:S106"+Replace this use of System.out by a logger.(œ¾Öç
+E	java:S106	"+Replace this use of System.out by a logger.(ç¸åÿÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'com.sun.source.doctree.SummaryTree'.(¹„´úÿÿÿÿ

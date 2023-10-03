@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8‰î¤”«1
+L	java:S106"+Replace this use of System.out by a logger.(‡úıÿÿÿÿ8Ò«”«1
+L	java:S106
+"+Replace this use of System.out by a logger.(ÛŒ¾ÿÿÿÿÿ8œá«”«1
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(¾ï™8ƒ‹¦”«1

@@ -1,0 +1,22 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "pay = " 3 times.(¯Öààşÿÿÿÿ8ÏÖÃÈ¬1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "age = " 3 times.(ğ“äóıÿÿÿÿ8ĞÖÃÈ¬1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‰ùÿÿÿÿ8ĞÖÃÈ¬1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†Ô–8ÑÖÃÈ¬1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ÓÇ8ÑÖÃÈ¬1
+G	java:S106"+Replace this use of System.out by a logger.(ô€ÿ×8ÙÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(ğ“äóıÿÿÿÿ8ÙÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(¯Öààşÿÿÿÿ8ÚÖÃÈ¬1
+G	java:S106"+Replace this use of System.out by a logger.(ô€ÿ×8ÛÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(ğ“äóıÿÿÿÿ8ÛÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(¯Öààşÿÿÿÿ8ÛÖÃÈ¬1
+G	java:S106"+Replace this use of System.out by a logger.(¬ëƒê8ÜÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(•ª¢şÿÿÿÿ8İÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(é‡õŒıÿÿÿÿ8ŞÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(¨­îŞşÿÿÿÿ8ßÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(‹Ç¹şÿÿÿÿ8ßÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(„ÉüÚûÿÿÿÿ8ßÖÃÈ¬1
+L	java:S106"+Replace this use of System.out by a logger.(â÷€øÿÿÿÿ8áÖÃÈ¬1
+G	java:S106"+Replace this use of System.out by a logger.(–Õ³›8áÖÃÈ¬1

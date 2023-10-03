@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8ğÛâ”«1
+L	java:S106"+Replace this use of System.out by a logger.(ùÿÒıÿÿÿÿ8£æ”«1
+L	java:S106"+Replace this use of System.out by a logger.(à¸­Äûÿÿÿÿ8£æ”«1
+G	java:S106"+Replace this use of System.out by a logger.(›Îá’8£æ”«1
+L	java:S106"+Replace this use of System.out by a logger.(Û¤ÙÄúÿÿÿÿ8‚£æ”«1
+L	java:S106"+Replace this use of System.out by a logger.(îÖæœûÿÿÿÿ8‚£æ”«1
+V
+java:S1481"4Remove this unused "numberOfBuckets" local variable.(àøƒâùÿÿÿÿ8½ªä”«1
+‚
+java:S2234"`Parameters to getBucketCount have the same names but not the same order as the method arguments.(›–”Šøÿÿÿÿ8•÷ã”«1
