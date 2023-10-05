@@ -1,18 +1,14 @@
 package PigLatin;
 
 public class Rule1 extends BigBoiClass{
-    public static char[] metodaRegula1(String input){
-        char[] inputToArray = stringToArray(input);
-        return inputToArray;
-    }
+    public String metodaRegula1(String input){
+        input = input.toLowerCase();
+        char primaLitera = input.substring(0, 1).toLowerCase().charAt(0);
 
-    public static char[] metodaRegula12(String input){
-
-        if(checkXRandYT(input)){
-            char[] sir = metodaRegula1(input);
-            if()
+        if(checkXRandYT(input) || isVowel(primaLitera)){
+            return input + "ay";
         }
-    }
-    //char[] inputToArray = stringToArray(input);
 
+        return "invalid format";
+    }
 }
